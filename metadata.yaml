@@ -1,0 +1,54 @@
+_repo: American-Notes_675
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stone, Marcus
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '42342'
+    url: http://www.gutenberg.org/2009/agents/42342
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "American Notes for General Circulation is a travelogue by Charles Dickens\
+  \ detailing his trip to North America from January to June, 1842. Whilst there he\
+  \ acted as a critical observer of North American society, almost as if returning\
+  \ a status report on their progress. This can be compared to the style of his Pictures\
+  \ from Italy written four years later, where he wrote far more like a tourist. His\
+  \ American journey was also an inspiration for his novel Martin Chuzzlewit. Having\
+  \ arrived in Boston, he visited Lowell, New York, and Philadelphia, and travelled\
+  \ as far south as Richmond, as far west as St. Louis and as far north as Quebec.\
+  \ The American city he liked best was Boston – \"the air was so clear, the houses\
+  \ were so bright and gay. [...] The city is a beautiful one, and cannot fail, I\
+  \ should imagine, to impress all strangers very favourably.\" Further, it was close\
+  \ to the Perkins Institution and Massachusetts Asylum for the Blind where Dickens\
+  \ encountered Laura Bridgman, who impressed him greatly.\n\n\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '675'
+  wikidata: Q3614013
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dickens, Charles, 1812-1870 -- Travel -- United States'
+- !lcsh 'United States -- Description and travel'
+- !lcc 'E151'
+- !lcsh 'United States -- Social life and customs -- 1783-1865'
+- GITenberg
+title: American Notes
+url: http://www.gutenberg.org/ebooks/675
+wikipedia:
+- https://fr.wikipedia.org/wiki/Notes_am%C3%A9ricaines
+- https://en.wikipedia.org/wiki/American_Notes
+- https://nl.wikipedia.org/wiki/American_Notes
+- https://it.wikipedia.org/wiki/America_(Dickens)
